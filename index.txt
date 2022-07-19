@@ -1,0 +1,27 @@
+<!docktype html>
+<html lang="pt-br">
+<head>
+<body bgcolor="pink">
+<title>
+naty manicure
+</title>
+<font size="15">
+<center>
+naty manicure
+<hr size="9" color="white">
+<img src="1.jfif" width="200" height="200" hspace="30">
+<img src="2.jfif" width="200" height="200" hspace="30">
+<img src="3.jfif" width="200" height="200" hspace="30">
+<img src="4.jfif" width="200" height="200" hspace="30">
+<br>
+<font size="6">
+agende seu horario com a melhor manicure da região  
+</font>
+<marquee bgcolor="white" size="13">
+promoção pé e mão por apenas R$30,00  
+</marquee>
+<hr size="7" color="white">            
+<hr size="3" color="pink">
+endereço : rua doutor aureliano da siva aruda Nº706
+<hr color="pink">
+fone : (11) 94927-1405
